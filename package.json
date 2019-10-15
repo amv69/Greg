@@ -10,10 +10,16 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "discord.js": "^11.5.1",
     "express": "^4.16.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "ffmpeg-static": "^2.4.0",
+    "node-opus": "^0.3.2",
+    "opusscript": "0.0.6",
     "sqlite3": "^4.0.0",
-    "discord.js": "^11.4.2",
-    "better-sqlite3": "^5.4.0"
+    "ytdl-core": "^0.29.2"
   },
   "engines": {
     "node": "8.x"

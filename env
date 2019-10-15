@@ -1,0 +1,14 @@
+# Environment Config
+
+# store your secrets and config variables in here
+# only invited collaborators will be able to see your .env values
+
+# reference these in your code with process.env.SECRET
+
+SECRET=
+MADE_WITH=
+
+BOT_TOKEN=NDEzNDY0OTkxMjU4Mzc4MjQz.XMdGFg.N8DS8u2FZbynok4-O0zdgk5I33g
+prefix=-
+
+# note: .env is a shell file so there can't be spaces around =
