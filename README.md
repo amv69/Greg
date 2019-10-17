@@ -6,7 +6,7 @@ Jojo's themed discord bot
   -starplatinum: see how many messages you sent
 * Deletes messages
 
- -zahando X: deletes X messages before it
+  -zahando X: deletes X messages before it
 * Music Bot
 
  In Work
