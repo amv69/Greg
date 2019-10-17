@@ -9,4 +9,4 @@ Jojo's themed discord bot
   -zahando X: deletes X messages before it
 * Music Bot
 
- In Work
+   In Work
