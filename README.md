@@ -1,6 +1,6 @@
-#Requiem
+# Requiem
 Jojo's themed discord bot
-##Features
+## Features
 * It keeps track of messages ent
 ** -starplatinum: see how many messages you sent
 * Deletes messages
